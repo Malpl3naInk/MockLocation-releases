@@ -2,6 +2,8 @@
 
 MockLocation 是一个基于 `Android Test Provider` 的位置模拟工具
 
+源代码已开源至 [MockLocation](https://github.com/Malpl3naink/MockLocation)
+
 ## Downloads
 
 ![Latest Release](https://img.shields.io/github/v/release/Malpl3naInk/MockLocation-releases?style=for-the-badge&label=Latest%20Release&logo=github)
